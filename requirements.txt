@@ -3,6 +3,6 @@ numpy==1.22.4
 Pillow==9.1.1
 streamlit==1.10.0
 streamlit_drawable_canvas==0.9.1
-tensorflow==2.2
+tensorflow==2.4
 #tensorflow_gpu==2.9.1
 tqdm==4.64.0
