@@ -14,7 +14,7 @@ model_.load_weights(PRETRAINED_DIR)
 
 st.set_page_config("Digit Playground")
 st.title("🎮 Digit Playground")
-title_img = Image.open("1.png")
+title_img = Image.open("data/1.png")
 
 st.image(title_img)
 
